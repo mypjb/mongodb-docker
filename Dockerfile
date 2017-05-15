@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER mypjb/fastdfs docker maintainer 280417314@qq.com
+MAINTAINER mypjb/mongodb docker maintainer 280417314@qq.com
 
 #mongodb dowload url
 ENV MONGO_URL https://fastdl.mongodb.org/linux/mongodb-linux-x86_64-rhel70-3.4.4.tgz
